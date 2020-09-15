@@ -7,7 +7,12 @@
  Additions:
  Option to change RPM, Motor_Steps, Micro_Steps
  All values saved in EEPROM
-
+ ***************************************************************************************
+ References :
+ 1-Menu code for LCD from Paul Siewert. 
+    Link:.https://www.instructables.com/id/Arduino-Uno-Menu-Template/
+ 2-BasicStepperDriver library from laurb9. 
+    Link:.https://github.com/laurb9/StepperDriver
  ***************************************************************************************
  Steps:
  1:Download and install "BasicStepperDriver.h" Library
